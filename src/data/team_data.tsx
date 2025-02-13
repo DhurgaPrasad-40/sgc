@@ -1,10 +1,10 @@
 //Important Instructions: Add the team members with the following format
 export interface TeamMember {
-    name: string;
-    role: string;
-    department: string;
-    year: string;
-    image: string;
+    name: "Dhurga Prasad", 
+    role: " Member", 
+    department: "Electrical and Electronics Engineering", 
+    year: "II", 
+    image: 
     linkedin: string;
   }
   
