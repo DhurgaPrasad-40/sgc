@@ -4,8 +4,6 @@ export interface TeamMember {
     role: " Member", 
     department: "Electrical and Electronics Engineering", 
     year: "II", 
-    image: 
-    linkedin: string;
   }
   
   export const teamMembers: TeamMember[] = [
